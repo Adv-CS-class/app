@@ -9,3 +9,7 @@ List of things to do:
 -Build app using Xcode, Swift, GitHub, etc.
 
 -Documentation/proof of concept.
+
+-Video showing functions of the app (not longer than 4 mins)
+
+-Submit video and documentation online.
