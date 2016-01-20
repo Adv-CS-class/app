@@ -1,0 +1,6 @@
+A General Overview and visualization of a Shortest Path Algorithm
+https://en.wikipedia.org/wiki/Dijkstra's_algorithm
+
+Pretty useful site about Dijkstra's Method (coded within Java so we should all be able to understand it)
+http://www.vogella.com/tutorials/JavaAlgorithmsDijkstra/article.html
+
