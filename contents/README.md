@@ -1,5 +1,5 @@
 # Outline
----
+
 Ideas
 --------
 * Optimization of someone's route? (Can use Google API and shortest distance optimization techniques)  Read here :https://en.wikipedia.org/wiki/Route_inspection_problem
