@@ -2,14 +2,18 @@
 
 List of things to do:
 ---------------
-*Find suitable competition: https://www.challenge.gov/challenge/congressional-app-challenge-pa-07-rep-meehan/
+* Find suitable competition: https://www.challenge.gov/challenge/congressional-app-challenge-pa-07-rep-meehan/ (even though the app submission period has closed, we can still use the framework to shape our app development).
 
-*Develop outline and approach.
+* Develop outline (see contents folder) and approach.
 
-*Build app using Xcode, Swift, GitHub, etc.
+* Build app in Swift language.  
 
-*Documentation/proof of concept.
+* Execute in Xcode and test.\
 
-*Video showing functions of the app (not longer than 4 mins)
+* Share code and collaborate via GitHub.
 
-*Submit video and documentation online.
+* Documentation/proof of concept.
+
+* Video showing functions of the app (not longer than 4 mins).
+
+* Submit video and documentation online (probably not needed now).
