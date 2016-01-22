@@ -1,4 +1,4 @@
-# Advanced Computer Science App Team Outline (Latest update: 1/22/16)
+# App Team Outline (Latest update: 1/22/16)
 
 Ideas
 --------
