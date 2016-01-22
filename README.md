@@ -19,16 +19,10 @@ Roles
 * Set up nodes for potential locations ("coordinates" for mapping out PHS).
 
 
-List of things to do:
+List of things to do
 ---------------
 * Find suitable competition: https://www.challenge.gov/challenge/congressional-app-challenge-pa-07-rep-meehan/ (even though the app submission period has closed, we can still use the framework to shape our app development).
 
-* Develop outline (see contents folder) and approach.
-
-* Build app in Swift language.  
-
-* Execute in Xcode and test.
-
-* Share code and collaborate via GitHub.
+* Build app in Swift language.  UI done in Xcode (Derek Leung will take care of it).  Source code/files built and shared via Github.
 
 * Documentation/proof of concept.
