@@ -9,13 +9,17 @@ Ideas
 Resources
 ----------
 * Problem that we will solve explained here.  https://en.wikipedia.org/wiki/Route_inspection_problem
+* 
 * Dijkstra's Algorithm: https://en.wikipedia.org/wiki/Dijkstra's_algorithm
+* 
 * How to Code App Tutorial here: https://designthencode.com/scratch/ and https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
 
 Roles
 ------------
 * Everyone should learn how to use Xcode and app design.
+* 
 * Within the code, we should build files seperately. 
+* 
 * Set up nodes for potential locations ("coordinates" for mapping out PHS).
 
 List of things to do
