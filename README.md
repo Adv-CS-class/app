@@ -1,4 +1,4 @@
-# App Team Outline (Latest update: 1/23/16)
+# App Team Outline (Latest update: 1/24/16)
 
 Ideas
 --------
