@@ -14,6 +14,8 @@ Resources
 
 * Another solution is the A* Heuristic Model: http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html (this may be easier to implement alongside API).
 
+* Cool visualization here: http://kevanahlquist.com/osm_pathfinding/ followed by the source code on https://github.com/mplewis/osm-pathfinding.
+
 * How to Code App Tutorial here: https://designthencode.com/scratch/ and https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
 
 Roles
