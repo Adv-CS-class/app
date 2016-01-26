@@ -8,9 +8,11 @@ Ideas
 
 Resources
 ----------
-* Problem that we will solve explained here.  https://en.wikipedia.org/wiki/Route_inspection_problem
+* General problem that we will solve explained here.  https://en.wikipedia.org/wiki/Route_inspection_problem
 
-* Dijkstra's Algorithm: https://en.wikipedia.org/wiki/Dijkstra's_algorithm
+* A possible solution is Dijkstra's Algorithm: https://en.wikipedia.org/wiki/Dijkstra's_algorithm.
+
+* Another solution is the A* Heuristic Model: http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html (this may be easier to implement alongside API).
 
 * How to Code App Tutorial here: https://designthencode.com/scratch/ and https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
 
@@ -26,6 +28,6 @@ List of things to do
 ---------------
 * Find suitable competition: https://www.challenge.gov/challenge/congressional-app-challenge-pa-07-rep-meehan/ (even though the app submission period has closed, we can still use the framework to shape our app development).
 
-* Build app in Swift language.  UI done in Xcode (Derek Leung will take care of it).  Source code/files built and shared via Github.
+* Build app in Swift language.  UI done in Xcode.  Source code/files built and shared via Github.
 
 * Documentation/proof of concept.
