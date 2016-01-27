@@ -1,4 +1,4 @@
-# App Team Outline (Latest update: 1/26/16)
+# App Team Outline (Latest update: 1/27/16)
 
 Ideas
 --------
@@ -6,7 +6,7 @@ Ideas
 
 * We could also do an optimization of Penncrest using the same basic idea, but we would need to map all the locations of our school (wings/rooms/gym/cafe/etc).  Dijkstra's Algorithm is straightforward optimization algorithm that we can fork and use in our project.
 
-Resources
+Learning Resources
 ----------
 * General problem that we will solve explained here.  https://en.wikipedia.org/wiki/Route_inspection_problem
 
@@ -17,6 +17,18 @@ Resources
 * Cool visualization here: http://kevanahlquist.com/osm_pathfinding/ followed by the source code on https://github.com/mplewis/osm-pathfinding.
 
 * How to Code App Tutorial here: https://designthencode.com/scratch/ and https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
+
+Tools
+------------
+* Google Maps API: https://developers.google.com/maps/
+
+* Mapbox: https://www.mapbox.com/
+
+* Open Street Map: http://www.openstreetmap.org/about
+
+* Leaflet: http://leafletjs.com/ (JavaScript mostly but we can utilize it and implement ourselves)
+
+* Bootstrap: http://getbootstrap.com/
 
 Roles
 ------------
