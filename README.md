@@ -26,10 +26,6 @@ Tools
 
 * Open Street Map: http://www.openstreetmap.org/about
 
-* Leaflet: http://leafletjs.com/ (JavaScript mostly but we can utilize it and implement ourselves)
-
-* Bootstrap: http://getbootstrap.com/
-
 Roles
 ------------
 * Everyone should learn how to use Xcode and app design.
