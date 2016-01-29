@@ -2,7 +2,7 @@
 
 Ideas
 --------
-* Optimization of someone's route. (Can use Google API and shortest distance optimization techniques)
+* Optimization of someone's route (shortest path optimization).
 
 * We could also do an optimization of Penncrest using the same basic idea, but we would need to map all the locations of our school (wings/rooms/gym/cafe/etc).  Dijkstra's Algorithm is straightforward optimization algorithm that we can fork and use in our project.
 
