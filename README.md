@@ -1,4 +1,4 @@
-# App Team Outline (Latest update: 1/29/16)
+# App Team Outline (Latest update: 2/09/16)
 
 Ideas
 --------
@@ -33,6 +33,14 @@ Roles
 * Within the code, we should build files seperately. 
 
 * Set up nodes for potential locations ("coordinates" for mapping out PHS).
+
+NODES
+---------
+* Media Elementary School
+
+* Media Theater
+
+* Restuarants?
 
 List of things to do
 ---------------
