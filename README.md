@@ -1,4 +1,4 @@
-# App Team Outline (Latest update: 2/09/16)
+# App Team Outline (Latest update: 2/16/16)
 
 Ideas
 --------
@@ -18,13 +18,17 @@ Learning Resources
 
 * How to Code App Tutorial here: https://designthencode.com/scratch/ and https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
 
-Tools
+Tools/Software Needed on the Mac
 ------------
 * Google Maps API: https://developers.google.com/maps/
 
-* Mapbox: https://www.mapbox.com/
+* Mapbox SDK: https://www.mapbox.com/
 
 * Open Street Map: http://www.openstreetmap.org/about
+
+* Xcode
+
+* Git for Mac
 
 Roles
 ------------
