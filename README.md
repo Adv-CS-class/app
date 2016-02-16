@@ -1,4 +1,4 @@
-# App Team Outline (Latest update: 2/16/16)
+# App Outline: Media, PA Path Finding (Latest update: 2/16/16)
 
 Ideas
 --------
