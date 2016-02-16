@@ -38,7 +38,7 @@ Roles
 
 * Set up nodes for potential locations ("coordinates" for mapping out PHS).
 
-NODES
+Nodes (coordinates for setting up pathfinding algorithm)
 ---------
 * Media Elementary School
 
