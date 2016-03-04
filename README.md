@@ -1,6 +1,6 @@
 # App Outline: Media, PA Path Finding (Latest update: 3/1/16)
 
-Where am I? https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson5.html#//apple_ref/doc/uid/TP40015214-CH19-SW1.  Section title: To add an action to the button.
+Where am I? https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson5.html#//apple_ref/doc/uid/TP40015214-CH19-SW1.  Section title: Declare a Constant for the Button Size
 
 Ideas
 --------
