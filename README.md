@@ -1,6 +1,8 @@
-# App Outline: Media, PA Path Finding (Latest update: 3/9/16)
+# App Outline: Media, PA Path Finding (Latest update: 3/29/16)
 
-Where am I? https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson6.html#//apple_ref/doc/uid/TP40015214-CH20-SW1.  Section title: Test Your Data
+Where am I?
+
+Derek = Section title: Working with Table Views: Create a Table View
 
 Ideas
 --------
