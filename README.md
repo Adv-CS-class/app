@@ -1,8 +1,8 @@
-# App Outline: Media, PA Path Finding (Latest update: 3/29/16)
+# App Outline: Media, PA Path Finding (Latest update: 3/30/16)
 
 Where am I?
 
-Derek = Section title: Working with Table Views: Create a Table View
+Derek = Section title: Working with Table Views: Create a Table View, Add Images to Your Project
 
 Ideas
 --------
