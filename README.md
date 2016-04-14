@@ -2,7 +2,7 @@
 
 Where am I?
 
-Derek = Section title: Working with Table Views: Create a Table View, Add Images to Your Project
+Derek = Section title: Implement Navigation
 
 Ideas
 --------
