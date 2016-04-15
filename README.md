@@ -1,8 +1,8 @@
-# App Outline: Media, PA Path Finding (Latest update: 3/30/16)
+# App Outline: Media, PA Path Finding (Latest update: 4/15/16)
 
 Where am I?
 
-Derek = Section title: Implement Navigation
+Derek = Section title: Implement Navigation: Store New Meals...
 
 Ideas
 --------
