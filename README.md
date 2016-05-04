@@ -1,8 +1,4 @@
-# App Outline: Media, PA Path Finding (Latest update: 4/15/16)
-
-Where am I?
-
-Derek = Section title: Cancel an Edit to an Existing Meal
+# App Outline: Media, PA Path Finding (Latest update: 5/4/16)
 
 Ideas
 --------
@@ -21,6 +17,8 @@ Learning Resources
 * Cool visualization here: http://kevanahlquist.com/osm_pathfinding/ followed by the source code on https://github.com/mplewis/osm-pathfinding.
 
 * How to Code App Tutorial here: https://designthencode.com/scratch/ and https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
+
+* Practice with MapViews: http://codewithchris.com/xcode-tutorial-storyboards-mapkit-view-navigation/
 
 Tools/Software Needed on the Mac
 ------------
